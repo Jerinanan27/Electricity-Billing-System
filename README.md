@@ -9,8 +9,7 @@ CSE347 (Section 04).
 
 **App:** https://apex.oracle.com/pls/apex/r/347_project/electric-billing-system/login
 
-> Deployed on Oracle APEX. Open the link above (do not use a copied
-> `?session=...` URL — that session ID is temporary and expires).
+> Deployed on Oracle APEX. Open the link above.
 
 **Demo credentials**
 
@@ -46,7 +45,7 @@ The presentation documents the full analysis and design:
   (14 activities; critical path A→C→F→H→J→K→L→M→N, 16-day duration)
 
 See **`CSE347-Electricity-Billing-System-Slides.pdf`** for the full deck.
-*(If you keep the original filename, update this link accordingly.)*
+
 
 ## Team
 
